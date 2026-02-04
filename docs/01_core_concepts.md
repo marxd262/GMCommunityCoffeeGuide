@@ -1,15 +1,15 @@
-# 1. Core Concepts
+# Core Concepts
 
-- [1. Core Concepts](#1-core-concepts)
-- [2. Repeatability and Workflow](#2-repeatability-and-workflow)
-- [3. Water as a Solvent](#3-water-as-a-solvent)
-- [4. What does Gaggimate even do?](#4-what-does-gaggimate-even-do)
-- [5. Profiles](#5-profiles)
-- [6. The Taste of coffee](#6-the-taste-of-coffee)
-- [7. The Lifecircle of a shot](#7-the-lifecircle-of-a-shot)
+- [Core Concepts](#core-concepts)
+- [1. Repeatability and Workflow](#1-repeatability-and-workflow)
+- [2. Water as a Solvent](#2-water-as-a-solvent)
+- [3. What does Gaggimate even do?](#3-what-does-gaggimate-even-do)
+- [4. Profiles](#4-profiles)
+- [5. The Taste of coffee](#5-the-taste-of-coffee)
+- [6. The Lifecircle of a shot](#6-the-lifecircle-of-a-shot)
 
 
-# 2. Repeatability and Workflow
+# 1. Repeatability and Workflow
 
 I can't stress this point enough. Repeatability is one of the most important factors. The biggest advantage for GM is repeatability. It can replicate shots and do it again and again and again. All this with a stable pressure, flow and temperature. But for that to matter, you have to get some things right. It's important that your puck prep is repeatable. It doesn't matter what you do, you have to be able to repeat it. It starts with weighing the beans. GM cant do its job, if you don't use the same dose for your shots. The dose should have a good distribution in your portafilter and afterwards the tamp should be even with a consistent pressure. GM should also be repeatable set up.To have this repeatable I recommend to implement a workflow and stick to this workflow. Experiment with this and find out what works for you. It doesn't have to be complicated but it should be repeatable. 
 
@@ -48,15 +48,15 @@ The Idea behind WDT is to remove clumps and distribute the grinds evenly. My gri
 
 My checklist and workflow doesn't have to work for you. You should try to see what works for you and experiment if needed. Maybe some steps are too much for you or feel like a hassle? That's totally ok. Just find something that gives you repeatable results.
 
-# 3. Water as a Solvent
+# 2. Water as a Solvent
 
 In espresso, hot water functions as a solvent that pulls soluble flavors from the coffee grounds. Changing different variables, alters how much material the water extracts, shaping the final taste.
 
-# 4. What does Gaggimate even do?
+# 3. What does Gaggimate even do?
 
 Gaggimate isn't just a magical creation that our saviour the mighty Wasp brought to us to awaken us. It's a fancy PID with extrastep and an automated recipe user. Those Recipes are called Profiles. They can massively change how the coffee tastes but in the end we as the user decide how they do it. These Profiles give us all one important thing: Repeatability.
 
-# 5. Profiles
+# 4. Profiles
 
 Espresso profiles are programmable sequences that tell GM what temperature, flow rate, and pressure to apply at each stage of extraction. A profile can contain several sections (such as pre‑infusion, pressure ramp, and steady‑state) each with its own targets. By selecting or customizing a profile, the user decides which aspects of the shot to emphasize, while the ultimate flavor still depends on the barista’s variables (grind size, dose, tamp, bean quality, etc.).
 
@@ -71,11 +71,11 @@ Automatic pro (light - dark)
 
 All profiles have a sweet spot where they work the best. What they aim at and what to look out for is normally described in the Discord thread of the different profiles. Look at those threads first to get a starting point. Afterwards they need to be tweaked by hand.
 
-# 6. The Taste of coffee
+# 5. The Taste of coffee
 
 Espresso flavor can be boiled down to two primary taste axes: sour (linked to under‑extraction) and bitter (linked to over‑extraction). Balancing these extremes is the first step toward a good shot. Beyond taste, mouthfeel (the body and viscosity of the espresso)adds another dimension, ranging from thin and light to thick, juicy, or syrupy. Because each coffee bean (origin, roast, processing) expresses a unique combination of acidity, bitterness, and texture, the ideal profile varies from bean to bean. The only reliable way to discover your preferred espresso is to experiment with different variables, tasting the results and adjusting until the desired balance is achieved.
 
-# 7. The Lifecircle of a shot
+# 6. The Lifecircle of a shot
 
 During extraction, the coffee bed releases compounds at different rates. The first seconds deliver the bulk of oils, volatile aromatics, and soluble solids, creating a thick mouthfeel, strong crema, and pronounced acidity. As the shot continues, fewer solids are drawn out, the liquid becomes more watery, and the balance shifts toward bitter, higher‑molecular‑weight compounds. An under‑extracted shot therefore tastes sour, while an over‑extracted shot tastes bitter.
 
