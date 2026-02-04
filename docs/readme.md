@@ -87,9 +87,9 @@ Practical workflow
 
 Two Guides from Baristahustle that I think are helpfull.
 
-[](./assets/Screen_Shot_2021-12-21_at_3.33.17_PM.png)
+![Baristahustle Espresso Compas 1](./assets/Screen_Shot_2021-12-21_at_3.33.17_PM.png)
 
-[](./assets/The%20Espresso%20Compass-1.jpg)
+![Baristahustle Espresso Compas 2](./assets/The%20Espresso%20Compass-1.jpg)
 
 
 # Core Concepts
