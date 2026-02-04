@@ -1,15 +1,13 @@
-<meta charset="utf-8">  
-
 The GaggiMate Community guide to great Espresso
 
 Contents:
 
-- [1. Preamble](#1-preamble)
+- [Preamble](#preamble)
 - [Where to continue](#where-to-continue)
 - [Things to come (ToDo)](#things-to-come-todo)
 
 
-# 1. Preamble
+# Preamble
 
 The most important info before anything else: Espresso is as complicated as you want it to be. In the end Gaggimate gives you alot of Data and Graphs and so on. It can be very tempting to go heavy into all this data and try to read stuff into it. But thats where a big mistake lies. The data you get is just a trend. It can help with a general direction, especially if you know your input parameters like coffee, water and so on. 
 
