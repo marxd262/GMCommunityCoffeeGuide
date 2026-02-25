@@ -25,7 +25,7 @@ I can't stress this point enough. Repeatability is one of the most important fac
 7. While the grinder is working I put the cup with hot water on the cupwarmer and take the portafilter out.
 8. I clean the portafilter with a towel to make sure it's dry and clean.
 9. Put the portafilter with a funnel on my tampstation
-10. Use the blower of my grinder to make sure all the grinds are in the Portafilter.
+10. Use the blower of my grinder to make sure all the grinds are in the blindshaker.
 11. Use the blindshaker by shaking for 5-10 seconds
 12. From about 5cm height use the blind shaker and let the grinds fall into the portafilter. I aim for a small mount in the middle.
 13. Check distribution in the portafilter. Like I said, I aim for a small mount in the middle. If needed I distribute by knocking the portafilter.
