@@ -79,3 +79,36 @@ One thing we can see is, that the thing that limited this extraction in the main
 THIS IS ONLY A ASSUMPTION! Based on the graph alone we dont know how the cup tasted and if this is realy needed. I cant stress enough how important it is to taste first and only then decide if we want to change something.
 
 This combination in the Graph leads to think that the shot was tasting to sour and wasnt great. Based on the graph alone the decision to grind finer could have been a good thing. But as I am the one who tasted the Cup I can tell you that this would have been the wrong decision in this case. It was a ligher roast where I wanted to highlight slight acidity and fruity notes. In the end the cup was perfect and I did not change anything. This is to show, that the graph can be missleasind if taste isnt used as a important factor.
+
+# More Examples in a bit less detail
+
+## First Example
+![first graph](./assets/ShotExamples/ShotExample1.png)
+
+*This text is copied from a reply I made on Discord a while ago.*
+
+Temp:
+The Temp graph is the red one. At the start of the extraction the target value was 86.5. Your machine was spot on. The temp dropped to 85. The drop looks massive in the graph but isnt realy a big deal. on my silvia i get a drop of 8°. So dont worry about temp drop. The only interesting thing is that you had 86.5 at the start. Most likely you had 86.5 throughout the whole shot at the puck.
+
+Flow:
+This represents how much water the pump was moving. if you look at the graph, it moved alot of whater at the beginning. around 5g/s and then started to slow down. Normaly the flow is very high at the beginning of a shot. thats to fill the headspace before the puck. after that is filled the pressure will increase because now the water fights the puck instead of displacing air. THats exactly what we see here. After around 3 seconds the flow decreases. Flow and pressure are tightly corelated and directly impact eachother. In this shot the flow got reduced to not increase the pressure to more that was needed. Most likely a preinfusion style in the beginning. 
+The idea is to use a lower flow and pressure in the beginning to fully saturate your grounds. This will make it easier to extract the flavor.
+After 15s the flow increased to increase the pressure.
+
+Pressure: 
+The target of the pressure was around 1bar. GM started with high flow until the headspace was filled and pressure could be build. Filling the headspace took around 3-4s. Afterwards the pressure increased. GM didnt need to pump so much water anylonger because the puck created backpressure. the pressure around 1bar was nicely holded until 15s. Afterwards the pressure target ramped up to 9 bar. Your GM followed the target nicely. It lagged around 1s behind. Thats totaly normal. It sees, that the target is higher then the current value, says pump to pump more water (flowincrease) and after the flow increased the pressure increased as well. The Pressure target went up to 9 bar, and your line followed. The target of 9 bar was reached without any problems. Afterwards the pressuretarget was slowly decreased, and your GM started to decrease flow so your pressure would also decrease.
+
+After 29s your shot finished.
+
+Now I dont know the specific targets of this profile. Normaly Leverstyle shots aim for a longer extraction and less flow. If the target was 30s, you did very well regarding that target and it would get down to taste to decide what to change. If the time target would have been longer, i would grind finer. That way less flow is needed to reach the same pressure. Cremina for example aims for a total shottime of 45 - 55s.
+Damians lever on the other hand is Abit over 30s.
+
+But all those targets are dependend on taste.
+
+If the espresso is way to sour or bitter change grindsize.
+
+If its not far of change the yield. higher yield reduces sourness but can increase bitterness.
+
+The Temp I usualy change based on roast and only do tiny adjustments afterwards. if needed.
+
+And if it did taste good, dont change a thing
