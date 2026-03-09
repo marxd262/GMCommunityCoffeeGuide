@@ -4,6 +4,7 @@ Contents:
 
 - [Preamble](#preamble)
 - [Where to continue](#where-to-continue)
+- [Writing at the moment (not complete)](#writing-at-the-moment-not-complete)
 - [Things to come (ToDo)](#things-to-come-todo)
 
 
@@ -35,8 +36,11 @@ I have multiple different topics I want to discuss. To give you a better overvie
 - [Variables and how they impact taste (simplified)](./02_variables_and_impact_on_taste.md)
 
 
+# Writing at the moment (not complete)
+- [Understanding GM graphs](./05_gm_graphs.md)
+- [Puckprep Deepdive](./06_deepdive_into_puck_prep.md)
+
 # Things to come (ToDo)
 
 - [How to calibrate based on taste](./03_calibration_based_on_taste.md)
 - [Profiles](./04_profiles.md)
-- [Understanding GM graphs](./05_gm_graphs.md)
