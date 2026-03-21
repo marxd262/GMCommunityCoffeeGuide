@@ -34,10 +34,10 @@ I have multiple different topics I want to discuss. To give you a better overvie
 - [Dial in cheat sheat](./00_dial_in_cheat_sheat.md)
 - [Core Concepts](./01_core_concepts.md)
 - [Variables and how they impact taste (simplified)](./02_variables_and_impact_on_taste.md)
+- [Understanding GM graphs](./05_gm_graphs.md)
 
 
 # Writing at the moment (not complete)
-- [Understanding GM graphs](./05_gm_graphs.md)
 - [Puckprep Deepdive](./06_deepdive_into_puck_prep.md)
 
 # Things to come (ToDo)
