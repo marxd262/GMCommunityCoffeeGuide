@@ -11,15 +11,15 @@ Here is what I would focus on and in what order:
 
 After that I would focus on taste and let it guide you:
 
-- To Bitter (dry..)?
-    - If way to bitter: grind coarser
+- Too Bitter (dry..)?
+    - If way too bitter: grind coarser
     - Alternatively: reduce dose
-    - If only a bit to bitter: decrease yield
+    - If only a bit too bitter: decrease yield
     - Lower Temp a bit
-- To sour (salty…)?
-    - If Way to sour: grind finer
+- Too sour (salty…)?
+    - If Way too sour: grind finer
     - Alternatively: increase dose
-    - If only a bit to sour: increase yield
+    - If only a bit too sour: increase yield
     - Increase Temp a bit
 - Not sweet/heavy/concentrated enough or too weak?
     - Decrease yield to get a higher ratio
